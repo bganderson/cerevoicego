@@ -13,13 +13,13 @@ Assuming you have Go already setup and working, grab the latest version of the p
 from master.
 
 ```sh
-go get github.com/bryanderson/cerevoicego
+go get github.com/bganderson/cerevoicego
 ```
 
 Import the package into your project.
 
 ```go
-import "github.com/bryanderson/cerevoicego"
+import "github.com/bganderson/cerevoicego"
 ```
 
 Create a cerevoice client. Please note that `AccountID` and `Password` are not the same 

@@ -1,7 +1,7 @@
 # CereVoice Go
 CereVoice Go is a [Go](https://golang.org) package for accessing the [CereProc](https://www.cereproc.com/) 
 [CereVoice Cloud API](https://www.cereproc.com/en/products/cloud). Currently this package 
-implements all available funcitons using the REST API. SOAP has not yet been implemented.
+implements all available functions using the REST API. SOAP has not yet been implemented.
 
 ## Notice
 Please note that is package is not complete and is considered pre-release, meaning it
